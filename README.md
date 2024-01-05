@@ -8,3 +8,7 @@ I appreciate the tools provided by devchallenges. they show you a every typo in 
 
 - HTML
 - pure CSS
+
+### screenshot
+
+![solution screenshot (Desktop)](./screenshot/Screenshot.png)
